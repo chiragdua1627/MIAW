@@ -1,5 +1,5 @@
 <html>
-	<head>
+<!-- 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 	</head>
   <body>
@@ -21,8 +21,12 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://merolatile--dev.sandbox.my.site.com/ESWWebChat1743413972658/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://merolatile--dev.sandbox.my.site.com/ESWWebChat1743413972658/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script> -->
 
-
+{
+  "OrganizationId": "00Dbf000001dtYj",
+  "DeveloperName": "Web_Chat_2",
+  "Url": "https://merolatile--dev.sandbox.my.salesforce-scrt.com"
+}
   </body>
 </html>
