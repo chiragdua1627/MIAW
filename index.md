@@ -3,7 +3,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 	</head>
   <body>
-    <script type='text/javascript'>
+   <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
@@ -22,6 +22,7 @@
 	};
 </script>
 <script type='text/javascript' src='https://merolatile--dev.sandbox.my.site.com/ESWWebChat1743413972658/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 
   </body>
 </html>
