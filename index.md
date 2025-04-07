@@ -10,8 +10,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00Dbf000001dtYj',
-				'Web_Chat',
-				'https://merolatile--dev.sandbox.my.site.com/ESWWebChat1743413972658',
+				'Web_Chat_2',
+				'https://merolatile--dev.sandbox.my.site.com/ESWWebChat21744061905751',
 				{
 					scrt2URL: 'https://merolatile--dev.sandbox.my.salesforce-scrt.com'
 				}
@@ -21,7 +21,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://merolatile--dev.sandbox.my.site.com/ESWWebChat1743413972658/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://merolatile--dev.sandbox.my.site.com/ESWWebChat21744061905751/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 
   </body>
