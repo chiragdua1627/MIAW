@@ -22,11 +22,7 @@
 	};
 </script>
 <script type='text/javascript' src='https://merolatile--dev.sandbox.my.site.com/ESWWebChat21744061905751/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script> -->
-{
-  "OrganizationId": "00Dbf000001dtYj",
-  "DeveloperName": "web_chat_2",
-  "Url": "https://merolatile--dev.sandbox.my.salesforce-scrt.com"
-}
+
 
 
   </body>
